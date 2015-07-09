@@ -5,4 +5,8 @@
   "main": "",
   "author": "Jon Acker",
   "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jon-acker/grunt-spec-gruntfile/"
+  },
 }
