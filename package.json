@@ -1,0 +1,8 @@
+{
+  "name": "grunt-spec-gruntfile",
+  "version": "1.0.0",
+  "description": "Initial Gruntfile.js for grunt-spec",
+  "main": "",
+  "author": "Jon Acker",
+  "license": "MIT"
+}
